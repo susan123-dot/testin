@@ -17,3 +17,6 @@
     -  Errors, Defects, and Failures
 
         Errors are mistakes made during the development process, defects are the presence of faults in the software, and failures occur when the software does not perform as intended, often due to errors or defects.
+    - Defects, Root Cause and Effect
+
+        Defects are flaws or issues in a product, root causes are the underlying reasons for those defects, and effects are the impacts that result from the presence of defects.
