@@ -20,3 +20,26 @@
     - Defects, Root Cause and Effect
 
         Defects are flaws or issues in a product, root causes are the underlying reasons for those defects, and effects are the impacts that result from the presence of defects.
+
+    - Seven Testing Principles
+        - Testing shows the presence of defects
+        
+            Testing helps to uncover defects and identify areas of weakness in the software.
+        - Exhaustive testing is impossible
+        
+            It is impossible to test all possible combinations and scenarios, so testing efforts should be focused on high-risk areas.
+        - Early testing
+        
+            Testing activities should start as early as possible in the software development life cycle to identify and address defects early on.
+        - Defect clustering
+            
+            Typically, a small number of modules or components contain the majority of defects, so testing efforts should be concentrated on those areas.
+        - Pesticide paradox
+            
+            Repeated testing with the same test cases can lead to diminishing returns, so test cases need to be regularly reviewed and updated.
+        - Testing is context-dependent
+
+            Testing strategies and techniques should be tailored to suit the specific context of the project, including its objectives, risks, and constraints.
+        - Absence of errors fallacy
+            
+            The absence of detected defects does not guarantee the absence of defects, so testing cannot guarantee a defect-free software, but it can help mitigate risks and improve software quality.
