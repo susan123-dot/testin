@@ -87,3 +87,6 @@
         - Stress Testing
 
             This type of testing evaluates the software's behavior and performance under extreme conditions or beyond its normal operational capacity.
+        - Localization Testing
+
+            It checks if the software is properly adapted to meet the requirements of a specific locale or language.
