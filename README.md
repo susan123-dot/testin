@@ -78,3 +78,6 @@
         - Compatibility Testing
 
             This testing verifies that the software is compatible with different operating systems, browsers, devices, or other software configurations.
+        - Explorotary Testing
+
+            It is an ad hoc testing approach where testers explore the software without any specific test scripts, aiming to uncover defects and gain insights.
