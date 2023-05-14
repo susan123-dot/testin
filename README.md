@@ -98,6 +98,7 @@
         - Test Environment Setup
             The test environment includes the hardware, software, and network configurations required for testing. In this stage, the test environment is set up and configured to replicate the target production environment. This may involve installing necessary software, hardware, and network configurations to create a stable and representative testing environment.
         - Test Execution
+            This stage involves running the test cases based on the test design and capturing the test results. Test execution may include manual or automated testing techniques, depending on the available resources and project requirements. Testers perform the tests, record any observed defects or issues, and document the test results for further analysis.
         - Test Reporting and Defect Tracking
         - Defect Analysis and Retesting
         - Test Closure
