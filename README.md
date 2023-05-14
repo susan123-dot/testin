@@ -66,3 +66,6 @@
         - Functional Testing
 
             This type of testing verifies that the software functions as intended and meets the specified functional requirements.
+        - Performance Testing
+
+            It involves testing the software's performance and responsiveness under different load conditions to assess its scalability, speed, and stability.
