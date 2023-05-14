@@ -134,3 +134,6 @@
         - Learning and Adaptibility
 
             The field of software testing is constantly evolving, with new tools, methodologies, and technologies emerging. Testers need to be adaptable, open to learning, and willing to embrace changes. The ability to quickly acquire new skills, stay updated with industry trends, and adapt to evolving testing practices is essential for staying effective and relevant in the field.
+    - Static and Dynamic Testing
+        - Static Testing: Static testing is a software testing approach that focuses on reviewing and analyzing the software's documentation, requirements, and code without executing the program.
+        - Dynamic Testing: Dynamic testing is an essential software testing approach that involves executing the software and observing its behavior to ensure that it functions correctly.
