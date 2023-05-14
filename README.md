@@ -116,6 +116,7 @@
         - Attention to Details
             Effective testing requires attention to detail, as testers need to meticulously examine the software and its behavior. Attention to detail involves being thorough, observant, and focused on identifying potential defects and anomalies. Testers who possess strong attention to detail are more likely to spot critical issues and ensure a higher level of quality.
         - Curiosity
+            Curiosity plays a significant role in testing. Testers with a curious mindset are motivated to explore and uncover potential issues, even beyond the specified requirements. They ask questions, dig deeper, and proactively seek out areas of the software that may be prone to defects. Curiosity-driven testing often leads to the discovery of valuable insights and improvements.
         - Critical Thinker
         - Skepticism
         - Problem Solving under Pressure
