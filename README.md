@@ -94,6 +94,7 @@
         - Test Design
             In this initial stage, the test objectives, scope, and strategy are defined. Test planning involves identifying the testing goals, establishing the test deliverables, determining the test environment and resources, and creating a test plan that outlines the testing activities and schedules.
         - Test Planning
+            In this stage, test scenarios, test cases, and test data are developed based on the requirements and design specifications. Test design involves identifying the test conditions, creating test cases to validate each condition, and preparing the necessary test data to execute the tests.
         - Test Environment Setup
         - Test Execution
         - Test Reporting and Defect Tracking
