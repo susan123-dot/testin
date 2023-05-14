@@ -81,3 +81,6 @@
         - Explorotary Testing
 
             It is an ad hoc testing approach where testers explore the software without any specific test scripts, aiming to uncover defects and gain insights.
+        - Load Testing
+
+            It tests the software's performance under expected load conditions to assess its stability and response time.
