@@ -140,14 +140,21 @@
     - Review Process
         The review process is a systematic approach to evaluating and providing feedback on various artifacts, documents, or components related to software development.
         - Planning 
+        
             The review process begins with planning, where the objectives, scope, and schedule for the review are determined. The artifacts or components to be reviewed are identified, and the roles and responsibilities of the reviewers are defined.
         - Preparation
+
             Reviewers prepare themselves by familiarizing themselves with the artifacts or components under review. They study the relevant documentation, requirements, or specifications to gain a comprehensive understanding of the subject matter.
         - Conducting the Review
+
             The review session takes place, either in person or through a collaborative online platform. The reviewers systematically examine the artifact or component, looking for errors, inconsistencies, or areas that need improvement. They may use checklists, guidelines, or best practices to ensure a thorough review.
         - Communication Discussion
+
             During the review, reviewers communicate their findings and observations. They discuss any identified issues, ask questions, and seek clarification from the authors or stakeholders. The goal is to foster a constructive dialogue and gather multiple perspectives to enhance the review outcomes.
         - Issue Resolution
+
             Issues or defects discovered during the review are documented and assigned to the appropriate parties for resolution. Reviewers may provide recommendations or suggestions on how to address the identified problems. The authors or developers then work on rectifying the issues and making necessary improvements.
         - Follow-Up
+
+            After the review, there may be a follow-up session to verify that the identified issues have been addressed satisfactorily. The progress of issue resolution is tracked, and any remaining concerns are discussed. The review process may also involve capturing lessons learned to improve future reviews and development practices.
     
