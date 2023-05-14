@@ -139,4 +139,10 @@
         - Dynamic Testing: Dynamic testing is an essential software testing approach that involves executing the software and observing its behavior to ensure that it functions correctly.
     - Review Process
         The review process is a systematic approach to evaluating and providing feedback on various artifacts, documents, or components related to software development.
+        - Planning 
+        - Preparation
+        - Conducting the Review
+        - Communication Discussion
+        - Issue Resolution
+        - Follow-Up
     
