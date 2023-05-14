@@ -138,6 +138,7 @@
         - Static Testing: Static testing is a software testing approach that focuses on reviewing and analyzing the software's documentation, requirements, and code without executing the program.
         - Dynamic Testing: Dynamic testing is an essential software testing approach that involves executing the software and observing its behavior to ensure that it functions correctly.
     - Review Process
+    
         The review process is a systematic approach to evaluating and providing feedback on various artifacts, documents, or components related to software development.
         - Planning 
 
@@ -197,7 +198,7 @@
             Test completion and closure involve reviewing the test results, evaluating the testing process, and obtaining stakeholders' approval for concluding the testing phase. It includes preparing test closure reports, capturing lessons learned, and archiving test artifacts for future reference.
     - Tool Support for Testing
         - Security Testing Tools
-        
+
             Security testing tools are designed to identify vulnerabilities, weaknesses, and potential security risks in software applications. They assist in conducting security scans, penetration testing, vulnerability assessment, and security code reviews.
         - Test Data Management Tools
 
