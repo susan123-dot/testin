@@ -159,5 +159,7 @@
             After the review, there may be a follow-up session to verify that the identified issues have been addressed satisfactorily. The progress of issue resolution is tracked, and any remaining concerns are discussed. The review process may also involve capturing lessons learned to improve future reviews and development practices.
     - Test Techniques
         - Black-Box Testing Techniques
+        
+            Black-box testing techniques focus on testing the software without considering its internal structure or implementation details. Testers only have access to the software's inputs and outputs, and they evaluate the system based on its expected behavior. Examples of black-box testing techniques include Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition Testing, and Use Case Testing.
         - White-Box Testing Techniques
         - Experienced-Based Techniques
