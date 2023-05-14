@@ -114,6 +114,7 @@
             In the final stage, the test activities are concluded. This includes analyzing the test results and metrics, assessing the overall quality of the software, and preparing test closure reports. Test closure also involves documenting lessons learned during the testing process to improve future testing efforts.
     - The Pshychology of Testing
         - Attention to Details
+            Effective testing requires attention to detail, as testers need to meticulously examine the software and its behavior. Attention to detail involves being thorough, observant, and focused on identifying potential defects and anomalies. Testers who possess strong attention to detail are more likely to spot critical issues and ensure a higher level of quality.
         - Curiosity
         - Critical Thinker
         - Skepticism
