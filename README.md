@@ -57,4 +57,9 @@
         - Acceptance Testing
 
             It is the process of determining that system meets user's requirement or not.  
-        
+        - Usability Testing
+
+            It evaluates the software's user friendliness and how easy to use.
+        - Recovery Testing
+
+            It involves in testing the software ability to recover from crashes or failures.
