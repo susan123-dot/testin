@@ -148,5 +148,6 @@
         - Communication Discussion
             During the review, reviewers communicate their findings and observations. They discuss any identified issues, ask questions, and seek clarification from the authors or stakeholders. The goal is to foster a constructive dialogue and gather multiple perspectives to enhance the review outcomes.
         - Issue Resolution
+            Issues or defects discovered during the review are documented and assigned to the appropriate parties for resolution. Reviewers may provide recommendations or suggestions on how to address the identified problems. The authors or developers then work on rectifying the issues and making necessary improvements.
         - Follow-Up
     
