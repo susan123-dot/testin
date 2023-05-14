@@ -69,3 +69,7 @@
         - Performance Testing
 
             It involves testing the software's performance and responsiveness under different load conditions to assess its scalability, speed, and stability.
+        - Security Testing
+
+            It focuses on identifying vulnerabilities and weaknesses in the software to protect it from potential security threats.
+        
