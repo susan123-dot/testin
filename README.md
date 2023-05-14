@@ -165,5 +165,33 @@
 
             White-box testing techniques, also known as structural or glass-box testing techniques, involve examining and testing the internal structure, code, and implementation details of the software. Testers have access to the source code and use this knowledge to design tests. Techniques such as Statement Coverage, Branch Coverage, Path Coverage, and Code Inspections are commonly used in white-box testing.
         - Experienced-Based Techniques
-        
+
             Experienced-based testing is a test technique that relies on the knowledge, skills, and expertise of the testing team to design and execute tests. It involves using the testers' past experiences, intuition, and domain knowledge to guide the testing process. Rather than relying solely on predefined test cases or formal documentation, experienced-based testing emphasizes the tester's insights and ability to identify potential risks and critical areas of the software.
+    - Test Management
+        - Test Planning
+        
+            Test planning involves defining the testing objectives, scope, and approach for a specific project. It includes identifying test deliverables, estimating resources and timelines, and establishing test strategies and techniques to be used.
+        - Test Strategy
+            
+            Test strategy outlines the overall approach to testing, including the selection of test levels, test types, and test environments. It defines the test coverage criteria, identifies the testing techniques to be used, and outlines any special considerations or constraints.
+        - Test Design
+        
+            Test design involves creating test cases and test scripts based on the specified requirements and test objectives. Testers define test scenarios, identify test data, and develop test cases that cover various system functionalities and edge cases.
+        - Test Execution
+        
+            Test execution involves running the test cases, recording the results, and comparing the actual results with expected outcomes. Testers log defects and communicate any issues or observations during the testing process. Test execution may involve manual testing, automated testing, or a combination of both.
+        - Defect Management
+
+            Defect management involves the tracking, analysis, and resolution of defects identified during testing. Testers log defects in a defect tracking system, prioritize them based on their impact, and collaborate with developers to ensure timely resolution. Defect management also includes retesting fixed defects to verify their resolution.
+        - Test Reporting and Metrics
+            
+            Test reporting involves communicating the test progress, results, and any issues to stakeholders. Test metrics are collected and analyzed to provide insights into the effectiveness and efficiency of the testing process. Reports may include test coverage, defect statistics, and overall quality metrics.
+        - Test Environment Management
+            
+            Test environment management involves setting up and maintaining the necessary hardware, software, and network configurations required for testing. It ensures that the testing environment closely resembles the production environment and is properly managed to avoid conflicts or disruptions during testing.
+        - Test Team Management
+        
+            Test team management involves managing the testers and coordinating their activities. It includes assigning tasks, tracking progress, conducting meetings, and fostering collaboration within the test team. Test team management also involves identifying training needs, providing mentoring or guidance, and ensuring the team has the necessary skills and resources.
+        - Test Completion and Closure
+        
+            Test completion and closure involve reviewing the test results, evaluating the testing process, and obtaining stakeholders' approval for concluding the testing phase. It includes preparing test closure reports, capturing lessons learned, and archiving test artifacts for future reference.
