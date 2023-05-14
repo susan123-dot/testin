@@ -142,6 +142,7 @@
         - Planning 
             The review process begins with planning, where the objectives, scope, and schedule for the review are determined. The artifacts or components to be reviewed are identified, and the roles and responsibilities of the reviewers are defined.
         - Preparation
+            Reviewers prepare themselves by familiarizing themselves with the artifacts or components under review. They study the relevant documentation, requirements, or specifications to gain a comprehensive understanding of the subject matter.
         - Conducting the Review
         - Communication Discussion
         - Issue Resolution
