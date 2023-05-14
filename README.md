@@ -13,7 +13,7 @@
         Testing is the process of verifying system or software will meet the specific requirement or not and debugging is the finding and fixing of errors and defects of the code.
     - Quality Assurance and Testing
 
-        Quality insurance is broader set of activities about SDLC to get high quality product and Testing is finding and fixitng errors and defects in system to meet specified requirements.
+        Quality assurance is broader set of activities about SDLC to get high quality product and Testing is finding and fixitng errors and defects in system to meet specified requirements.
     -  Errors, Defects, and Failures
 
         Errors are mistakes made during the development process, defects are the presence of faults in the software, and failures occur when the software does not perform as intended, often due to errors or defects.
