@@ -146,6 +146,7 @@
         - Conducting the Review
             The review session takes place, either in person or through a collaborative online platform. The reviewers systematically examine the artifact or component, looking for errors, inconsistencies, or areas that need improvement. They may use checklists, guidelines, or best practices to ensure a thorough review.
         - Communication Discussion
+            During the review, reviewers communicate their findings and observations. They discuss any identified issues, ask questions, and seek clarification from the authors or stakeholders. The goal is to foster a constructive dialogue and gather multiple perspectives to enhance the review outcomes.
         - Issue Resolution
         - Follow-Up
     
