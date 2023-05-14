@@ -140,7 +140,7 @@
     - Review Process
         The review process is a systematic approach to evaluating and providing feedback on various artifacts, documents, or components related to software development.
         - Planning 
-        
+
             The review process begins with planning, where the objectives, scope, and schedule for the review are determined. The artifacts or components to be reviewed are identified, and the roles and responsibilities of the reviewers are defined.
         - Preparation
 
@@ -157,4 +157,7 @@
         - Follow-Up
 
             After the review, there may be a follow-up session to verify that the identified issues have been addressed satisfactorily. The progress of issue resolution is tracked, and any remaining concerns are discussed. The review process may also involve capturing lessons learned to improve future reviews and development practices.
-    
+    - Test Techniques
+        - Black-Box Testing Techniques
+        - White-Box Testing Techniques
+        - Experienced-Based Techniques
