@@ -118,6 +118,7 @@
         - Curiosity
             Curiosity plays a significant role in testing. Testers with a curious mindset are motivated to explore and uncover potential issues, even beyond the specified requirements. They ask questions, dig deeper, and proactively seek out areas of the software that may be prone to defects. Curiosity-driven testing often leads to the discovery of valuable insights and improvements.
         - Critical Thinker
+            Testing involves critical thinking skills, including analysis, problem-solving, and decision-making. Testers need to interpret requirements, design effective test cases, and assess the impact of defects. They must think critically to identify potential risks, anticipate user behavior, and prioritize testing efforts. Strong critical thinking skills contribute to more effective and efficient testing.
         - Skepticism
         - Problem Solving under Pressure
         - Collaboration and Communication
