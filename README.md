@@ -92,16 +92,23 @@
             It checks if the software is properly adapted to meet the requirements of a specific locale or language.
     - Test Process
         - Test Design
+            
             In this initial stage, the test objectives, scope, and strategy are defined. Test planning involves identifying the testing goals, establishing the test deliverables, determining the test environment and resources, and creating a test plan that outlines the testing activities and schedules.
         - Test Planning
+            
             In this stage, test scenarios, test cases, and test data are developed based on the requirements and design specifications. Test design involves identifying the test conditions, creating test cases to validate each condition, and preparing the necessary test data to execute the tests.
         - Test Environment Setup
+            
             The test environment includes the hardware, software, and network configurations required for testing. In this stage, the test environment is set up and configured to replicate the target production environment. This may involve installing necessary software, hardware, and network configurations to create a stable and representative testing environment.
         - Test Execution
+            
             This stage involves running the test cases based on the test design and capturing the test results. Test execution may include manual or automated testing techniques, depending on the available resources and project requirements. Testers perform the tests, record any observed defects or issues, and document the test results for further analysis.
         - Test Reporting and Defect Tracking
+            
             The test results and any discovered defects are documented and reported in this stage. Test reports summarize the executed tests, their outcomes, and any issues encountered. Defect tracking tools may be used to log, track, and manage the identified defects throughout the testing process.
         - Defect Analysis and Retesting
+            
             After defects are reported, they are analyzed to understand their root causes and severity. The development team may fix the defects, and the testers will perform retesting to ensure that the issues have been resolved without introducing new problems.
         - Test Closure
+            
             In the final stage, the test activities are concluded. This includes analyzing the test results and metrics, assessing the overall quality of the software, and preparing test closure reports. Test closure also involves documenting lessons learned during the testing process to improve future testing efforts.
