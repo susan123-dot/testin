@@ -96,6 +96,7 @@
         - Test Planning
             In this stage, test scenarios, test cases, and test data are developed based on the requirements and design specifications. Test design involves identifying the test conditions, creating test cases to validate each condition, and preparing the necessary test data to execute the tests.
         - Test Environment Setup
+            The test environment includes the hardware, software, and network configurations required for testing. In this stage, the test environment is set up and configured to replicate the target production environment. This may involve installing necessary software, hardware, and network configurations to create a stable and representative testing environment.
         - Test Execution
         - Test Reporting and Defect Tracking
         - Defect Analysis and Retesting
