@@ -102,4 +102,5 @@
         - Test Reporting and Defect Tracking
             The test results and any discovered defects are documented and reported in this stage. Test reports summarize the executed tests, their outcomes, and any issues encountered. Defect tracking tools may be used to log, track, and manage the identified defects throughout the testing process.
         - Defect Analysis and Retesting
+            After defects are reported, they are analyzed to understand their root causes and severity. The development team may fix the defects, and the testers will perform retesting to ensure that the issues have been resolved without introducing new problems.
         - Test Closure
