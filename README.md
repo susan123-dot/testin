@@ -43,3 +43,8 @@
         - Absence of errors fallacy
             
             The absence of detected defects does not guarantee the absence of defects, so testing cannot guarantee a defect-free software, but it can help mitigate risks and improve software quality.
+    - Types of Testing
+        - Unit Testing
+
+            It invloves testing the individual components of the software.
+      
