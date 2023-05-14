@@ -159,7 +159,11 @@
             After the review, there may be a follow-up session to verify that the identified issues have been addressed satisfactorily. The progress of issue resolution is tracked, and any remaining concerns are discussed. The review process may also involve capturing lessons learned to improve future reviews and development practices.
     - Test Techniques
         - Black-Box Testing Techniques
-        
+
             Black-box testing techniques focus on testing the software without considering its internal structure or implementation details. Testers only have access to the software's inputs and outputs, and they evaluate the system based on its expected behavior. Examples of black-box testing techniques include Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition Testing, and Use Case Testing.
         - White-Box Testing Techniques
+
+            White-box testing techniques, also known as structural or glass-box testing techniques, involve examining and testing the internal structure, code, and implementation details of the software. Testers have access to the source code and use this knowledge to design tests. Techniques such as Statement Coverage, Branch Coverage, Path Coverage, and Code Inspections are commonly used in white-box testing.
         - Experienced-Based Techniques
+        
+            Experienced-based testing is a test technique that relies on the knowledge, skills, and expertise of the testing team to design and execute tests. It involves using the testers' past experiences, intuition, and domain knowledge to guide the testing process. Rather than relying solely on predefined test cases or formal documentation, experienced-based testing emphasizes the tester's insights and ability to identify potential risks and critical areas of the software.
