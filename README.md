@@ -47,7 +47,12 @@
         - Unit Testing
 
             It invloves testing the individual components of the software.
-        - Integrated Testing
+        - Integration Testing
 
             This type of testing is used to check interaction between different components of the software.
+        
+        - System Testing
+
+            It involves in testing the entire system to identify that all components are working together or not.
+        
       
