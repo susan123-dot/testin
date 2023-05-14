@@ -3,215 +3,215 @@
 1. Fundamental of Testing
     - What is Testing?
 
-        Testing is a process of evaluating a system or software to determine its functionality, performance, or other attributes, with the aim of identifying defects or validating its conformance to requirements. It involves executing various test cases, analyzing results, and ensuring that the system meets the desired quality standards before deployment.
+        -Testing is a process of evaluating a system or software to determine its functionality, performance, or other attributes, with the aim of identifying defects or validating its conformance to requirements. It involves executing various test cases, analyzing results, and ensuring that the system meets the desired quality standards before deployment.
     - Typical Objectives of Testing
         - Finding Errors and Bugs in System
         - Ensure that system will meet specific requirement or not
         - improve its quality, reliability, and user satisfaction
     - Testing & Debugging
 
-        Testing is the process of verifying system or software will meet the specific requirement or not and debugging is the finding and fixing of errors and defects of the code.
+        -Testing is the process of verifying system or software will meet the specific requirement or not and debugging is the finding and fixing of errors and defects of the code.
     - Quality Assurance and Testing
 
-        Quality assurance is broader set of activities about SDLC to get high quality product and Testing is finding and fixitng errors and defects in system to meet specified requirements.
+        -Quality assurance is broader set of activities about SDLC to get high quality product and Testing is finding and fixitng errors and defects in system to meet specified requirements.
     -  Errors, Defects, and Failures
 
-        Errors are mistakes made during the development process, defects are the presence of faults in the software, and failures occur when the software does not perform as intended, often due to errors or defects.
+        -Errors are mistakes made during the development process, defects are the presence of faults in the software, and failures occur when the software does not perform as intended, often due to errors or defects.
     - Defects, Root Cause and Effect
 
-        Defects are flaws or issues in a product, root causes are the underlying reasons for those defects, and effects are the impacts that result from the presence of defects.
+        -Defects are flaws or issues in a product, root causes are the underlying reasons for those defects, and effects are the impacts that result from the presence of defects.
 
     - Seven Testing Principles
         - Testing shows the presence of defects
         
-            Testing helps to uncover defects and identify areas of weakness in the software.
+            -Testing helps to uncover defects and identify areas of weakness in the software.
         - Exhaustive testing is impossible
         
-            It is impossible to test all possible combinations and scenarios, so testing efforts should be focused on high-risk areas.
+            -It is impossible to test all possible combinations and scenarios, so testing efforts should be focused on high-risk areas.
         - Early testing
         
-            Testing activities should start as early as possible in the software development life cycle to identify and address defects early on.
+            -Testing activities should start as early as possible in the software development life cycle to identify and address defects early on.
         - Defect clustering
             
-            Typically, a small number of modules or components contain the majority of defects, so testing efforts should be concentrated on those areas.
+            -Typically, a small number of modules or components contain the majority of defects, so testing efforts should be concentrated on those areas.
         - Pesticide paradox
             
-            Repeated testing with the same test cases can lead to diminishing returns, so test cases need to be regularly reviewed and updated.
+            -Repeated testing with the same test cases can lead to diminishing returns, so test cases need to be regularly reviewed and updated.
         - Testing is context-dependent
 
-            Testing strategies and techniques should be tailored to suit the specific context of the project, including its objectives, risks, and constraints.
+            -Testing strategies and techniques should be tailored to suit the specific context of the project, including its objectives, risks, and constraints.
         - Absence of errors fallacy
             
-            The absence of detected defects does not guarantee the absence of defects, so testing cannot guarantee a defect-free software, but it can help mitigate risks and improve software quality.
+            -The absence of detected defects does not guarantee the absence of defects, so testing cannot guarantee a defect-free software, but it can help mitigate risks and improve software quality.
     - Types of Testing
         - Unit Testing
 
-            It invloves testing the individual components of the software.
+            -It invloves testing the individual components of the software.
         - Integration Testing
 
-            This type of testing is used to check interaction between different components of the software.
+            -This type of testing is used to check interaction between different components of the software.
         
         - System Testing
 
-            It involves in testing the entire system to identify that all components are working together or not.
+            -It involves in testing the entire system to identify that all components are working together or not.
         - Acceptance Testing
 
-            It is the process of determining that system meets user's requirement or not.  
+            -It is the process of determining that system meets user's requirement or not.  
         - Usability Testing
 
-            It evaluates the software's user friendliness and how easy to use.
+            -It evaluates the software's user friendliness and how easy to use.
         - Recovery Testing
 
-            It involves in testing the software ability to recover from crashes or failures.
+            -It involves in testing the software ability to recover from crashes or failures.
         - Functional Testing
 
-            This type of testing verifies that the software functions as intended and meets the specified functional requirements.
+            -This type of testing verifies that the software functions as intended and meets the specified functional requirements.
         - Performance Testing
 
-            It involves testing the software's performance and responsiveness under different load conditions to assess its scalability, speed, and stability.
+            -It involves testing the software's performance and responsiveness under different load conditions to assess its scalability, speed, and stability.
         - Security Testing
 
-            It focuses on identifying vulnerabilities and weaknesses in the software to protect it from potential security threats.
+            -It focuses on identifying vulnerabilities and weaknesses in the software to protect it from potential security threats.
         - Regression Testing
 
-            It involves retesting the modified or added parts of the software to ensure that the changes have not introduced any new defects or issues.
+            -It involves retesting the modified or added parts of the software to ensure that the changes have not introduced any new defects or issues.
         - Compatibility Testing
 
-            This testing verifies that the software is compatible with different operating systems, browsers, devices, or other software configurations.
+            -This testing verifies that the software is compatible with different operating systems, browsers, devices, or other software configurations.
         - Explorotary Testing
 
-            It is an ad hoc testing approach where testers explore the software without any specific test scripts, aiming to uncover defects and gain insights.
+            -It is an ad hoc testing approach where testers explore the software without any specific test scripts, aiming to uncover defects and gain insights.
         - Load Testing
 
-            It tests the software's performance under expected load conditions to assess its stability and response time.
+            -It tests the software's performance under expected load conditions to assess its stability and response time.
         - Stress Testing
 
-            This type of testing evaluates the software's behavior and performance under extreme conditions or beyond its normal operational capacity.
+            -This type of testing evaluates the software's behavior and performance under extreme conditions or beyond its normal operational capacity.
         - Localization Testing
 
-            It checks if the software is properly adapted to meet the requirements of a specific locale or language.
+            -It checks if the software is properly adapted to meet the requirements of a specific locale or language.
     - Test Process
         - Test Design
             
-            In this initial stage, the test objectives, scope, and strategy are defined. Test planning involves identifying the testing goals, establishing the test deliverables, determining the test environment and resources, and creating a test plan that outlines the testing activities and schedules.
+            -In this initial stage, the test objectives, scope, and strategy are defined. Test planning involves identifying the testing goals, establishing the test deliverables, determining the test environment and resources, and creating a test plan that outlines the testing activities and schedules.
         - Test Planning
             
-            In this stage, test scenarios, test cases, and test data are developed based on the requirements and design specifications. Test design involves identifying the test conditions, creating test cases to validate each condition, and preparing the necessary test data to execute the tests.
+            -In this stage, test scenarios, test cases, and test data are developed based on the requirements and design specifications. Test design involves identifying the test conditions, creating test cases to validate each condition, and preparing the necessary test data to execute the tests.
         - Test Environment Setup
             
-            The test environment includes the hardware, software, and network configurations required for testing. In this stage, the test environment is set up and configured to replicate the target production environment. This may involve installing necessary software, hardware, and network configurations to create a stable and representative testing environment.
+            -The test environment includes the hardware, software, and network configurations required for testing. In this stage, the test environment is set up and configured to replicate the target production environment. This may involve installing necessary software, hardware, and network configurations to create a stable and representative testing environment.
         - Test Execution
             
-            This stage involves running the test cases based on the test design and capturing the test results. Test execution may include manual or automated testing techniques, depending on the available resources and project requirements. Testers perform the tests, record any observed defects or issues, and document the test results for further analysis.
+            -This stage involves running the test cases based on the test design and capturing the test results. Test execution may include manual or automated testing techniques, depending on the available resources and project requirements. Testers perform the tests, record any observed defects or issues, and document the test results for further analysis.
         - Test Reporting and Defect Tracking
             
-            The test results and any discovered defects are documented and reported in this stage. Test reports summarize the executed tests, their outcomes, and any issues encountered. Defect tracking tools may be used to log, track, and manage the identified defects throughout the testing process.
+            -The test results and any discovered defects are documented and reported in this stage. Test reports summarize the executed tests, their outcomes, and any issues encountered. Defect tracking tools may be used to log, track, and manage the identified defects throughout the testing process.
         - Defect Analysis and Retesting
             
-            After defects are reported, they are analyzed to understand their root causes and severity. The development team may fix the defects, and the testers will perform retesting to ensure that the issues have been resolved without introducing new problems.
+            -After defects are reported, they are analyzed to understand their root causes and severity. The development team may fix the defects, and the testers will perform retesting to ensure that the issues have been resolved without introducing new problems.
         - Test Closure
             
-            In the final stage, the test activities are concluded. This includes analyzing the test results and metrics, assessing the overall quality of the software, and preparing test closure reports. Test closure also involves documenting lessons learned during the testing process to improve future testing efforts.
+            -In the final stage, the test activities are concluded. This includes analyzing the test results and metrics, assessing the overall quality of the software, and preparing test closure reports. Test closure also involves documenting lessons learned during the testing process to improve future testing efforts.
     - The Pshychology of Testing
         - Attention to Details
 
-            Effective testing requires attention to detail, as testers need to meticulously examine the software and its behavior. Attention to detail involves being thorough, observant, and focused on identifying potential defects and anomalies. Testers who possess strong attention to detail are more likely to spot critical issues and ensure a higher level of quality.
+            -Effective testing requires attention to detail, as testers need to meticulously examine the software and its behavior. Attention to detail involves being thorough, observant, and focused on identifying potential defects and anomalies. Testers who possess strong attention to detail are more likely to spot critical issues and ensure a higher level of quality.
         - Curiosity
 
-            Curiosity plays a significant role in testing. Testers with a curious mindset are motivated to explore and uncover potential issues, even beyond the specified requirements. They ask questions, dig deeper, and proactively seek out areas of the software that may be prone to defects. Curiosity-driven testing often leads to the discovery of valuable insights and improvements.
+            -Curiosity plays a significant role in testing. Testers with a curious mindset are motivated to explore and uncover potential issues, even beyond the specified requirements. They ask questions, dig deeper, and proactively seek out areas of the software that may be prone to defects. Curiosity-driven testing often leads to the discovery of valuable insights and improvements.
         - Critical Thinker
 
-            Testing involves critical thinking skills, including analysis, problem-solving, and decision-making. Testers need to interpret requirements, design effective test cases, and assess the impact of defects. They must think critically to identify potential risks, anticipate user behavior, and prioritize testing efforts. Strong critical thinking skills contribute to more effective and efficient testing.
+            -Testing involves critical thinking skills, including analysis, problem-solving, and decision-making. Testers need to interpret requirements, design effective test cases, and assess the impact of defects. They must think critically to identify potential risks, anticipate user behavior, and prioritize testing efforts. Strong critical thinking skills contribute to more effective and efficient testing.
         - Skepticism
 
-            A healthy dose of skepticism is essential in testing. Testers should approach the software with a questioning mindset, challenging assumptions and verifying expectations. Being skeptical helps testers avoid confirmation bias and thoroughly evaluate the software, increasing the chances of detecting defects that may otherwise be overlooked.
+            -A healthy dose of skepticism is essential in testing. Testers should approach the software with a questioning mindset, challenging assumptions and verifying expectations. Being skeptical helps testers avoid confirmation bias and thoroughly evaluate the software, increasing the chances of detecting defects that may otherwise be overlooked.
         - Problem Solving under Pressure
 
-            Testing can be challenging, especially when faced with tight deadlines, complex scenarios, or critical issues. Testers must handle pressure and solve problems effectively. The ability to think clearly, remain composed, and make sound decisions even in high-pressure situations is crucial for maintaining quality throughout the testing process.
+            -Testing can be challenging, especially when faced with tight deadlines, complex scenarios, or critical issues. Testers must handle pressure and solve problems effectively. The ability to think clearly, remain composed, and make sound decisions even in high-pressure situations is crucial for maintaining quality throughout the testing process.
         - Collaboration and Communication
             
-            Effective collaboration and communication are vital in testing, particularly when working with developers, stakeholders, and other team members. Testers need to clearly articulate their findings, report defects, and provide feedback. Good interpersonal skills and the ability to collaborate positively contribute to smoother testing processes and better outcomes.
+            -Effective collaboration and communication are vital in testing, particularly when working with developers, stakeholders, and other team members. Testers need to clearly articulate their findings, report defects, and provide feedback. Good interpersonal skills and the ability to collaborate positively contribute to smoother testing processes and better outcomes.
         - Learning and Adaptibility
 
-            The field of software testing is constantly evolving, with new tools, methodologies, and technologies emerging. Testers need to be adaptable, open to learning, and willing to embrace changes. The ability to quickly acquire new skills, stay updated with industry trends, and adapt to evolving testing practices is essential for staying effective and relevant in the field.
+            -The field of software testing is constantly evolving, with new tools, methodologies, and technologies emerging. Testers need to be adaptable, open to learning, and willing to embrace changes. The ability to quickly acquire new skills, stay updated with industry trends, and adapt to evolving testing practices is essential for staying effective and relevant in the field.
     - Static and Dynamic Testing
         - Static Testing: Static testing is a software testing approach that focuses on reviewing and analyzing the software's documentation, requirements, and code without executing the program.
         - Dynamic Testing: Dynamic testing is an essential software testing approach that involves executing the software and observing its behavior to ensure that it functions correctly.
     - Review Process
 
-        The review process is a systematic approach to evaluating and providing feedback on various artifacts, documents, or components related to software development.
+        -The review process is a systematic approach to evaluating and providing feedback on various artifacts, documents, or components related to software development.
         - Planning 
 
-            The review process begins with planning, where the objectives, scope, and schedule for the review are determined. The artifacts or components to be reviewed are identified, and the roles and responsibilities of the reviewers are defined.
+            -The review process begins with planning, where the objectives, scope, and schedule for the review are determined. The artifacts or components to be reviewed are identified, and the roles and responsibilities of the reviewers are defined.
         - Preparation
 
-            Reviewers prepare themselves by familiarizing themselves with the artifacts or components under review. They study the relevant documentation, requirements, or specifications to gain a comprehensive understanding of the subject matter.
+            -Reviewers prepare themselves by familiarizing themselves with the artifacts or components under review. They study the relevant documentation, requirements, or specifications to gain a comprehensive understanding of the subject matter.
         - Conducting the Review
 
-            The review session takes place, either in person or through a collaborative online platform. The reviewers systematically examine the artifact or component, looking for errors, inconsistencies, or areas that need improvement. They may use checklists, guidelines, or best practices to ensure a thorough review.
+            -The review session takes place, either in person or through a collaborative online platform. The reviewers systematically examine the artifact or component, looking for errors, inconsistencies, or areas that need improvement. They may use checklists, guidelines, or best practices to ensure a thorough review.
         - Communication Discussion
 
-            During the review, reviewers communicate their findings and observations. They discuss any identified issues, ask questions, and seek clarification from the authors or stakeholders. The goal is to foster a constructive dialogue and gather multiple perspectives to enhance the review outcomes.
+            -During the review, reviewers communicate their findings and observations. They discuss any identified issues, ask questions, and seek clarification from the authors or stakeholders. The goal is to foster a constructive dialogue and gather multiple perspectives to enhance the review outcomes.
         - Issue Resolution
 
-            Issues or defects discovered during the review are documented and assigned to the appropriate parties for resolution. Reviewers may provide recommendations or suggestions on how to address the identified problems. The authors or developers then work on rectifying the issues and making necessary improvements.
+            -Issues or defects discovered during the review are documented and assigned to the appropriate parties for resolution. Reviewers may provide recommendations or suggestions on how to address the identified problems. The authors or developers then work on rectifying the issues and making necessary improvements.
         - Follow-Up
 
-            After the review, there may be a follow-up session to verify that the identified issues have been addressed satisfactorily. The progress of issue resolution is tracked, and any remaining concerns are discussed. The review process may also involve capturing lessons learned to improve future reviews and development practices.
+            -After the review, there may be a follow-up session to verify that the identified issues have been addressed satisfactorily. The progress of issue resolution is tracked, and any remaining concerns are discussed. The review process may also involve capturing lessons learned to improve future reviews and development practices.
     - Test Techniques
         - Black-Box Testing Techniques
 
-            Black-box testing techniques focus on testing the software without considering its internal structure or implementation details. Testers only have access to the software's inputs and outputs, and they evaluate the system based on its expected behavior. Examples of black-box testing techniques include Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition Testing, and Use Case Testing.
+            -Black-box testing techniques focus on testing the software without considering its internal structure or implementation details. Testers only have access to the software's inputs and outputs, and they evaluate the system based on its expected behavior. Examples of black-box testing techniques include Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition Testing, and Use Case Testing.
         - White-Box Testing Techniques
 
-            White-box testing techniques, also known as structural or glass-box testing techniques, involve examining and testing the internal structure, code, and implementation details of the software. Testers have access to the source code and use this knowledge to design tests. Techniques such as Statement Coverage, Branch Coverage, Path Coverage, and Code Inspections are commonly used in white-box testing.
+            -White-box testing techniques, also known as structural or glass-box testing techniques, involve examining and testing the internal structure, code, and implementation details of the software. Testers have access to the source code and use this knowledge to design tests. Techniques such as Statement Coverage, Branch Coverage, Path Coverage, and Code Inspections are commonly used in white-box testing.
         - Experienced-Based Techniques
 
-            Experienced-based testing is a test technique that relies on the knowledge, skills, and expertise of the testing team to design and execute tests. It involves using the testers' past experiences, intuition, and domain knowledge to guide the testing process. Rather than relying solely on predefined test cases or formal documentation, experienced-based testing emphasizes the tester's insights and ability to identify potential risks and critical areas of the software.
+            -Experienced-based testing is a test technique that relies on the knowledge, skills, and expertise of the testing team to design and execute tests. It involves using the testers' past experiences, intuition, and domain knowledge to guide the testing process. Rather than relying solely on predefined test cases or formal documentation, experienced-based testing emphasizes the tester's insights and ability to identify potential risks and critical areas of the software.
     - Test Management
         - Test Planning
         
-            Test planning involves defining the testing objectives, scope, and approach for a specific project. It includes identifying test deliverables, estimating resources and timelines, and establishing test strategies and techniques to be used.
+            -Test planning involves defining the testing objectives, scope, and approach for a specific project. It includes identifying test deliverables, estimating resources and timelines, and establishing test strategies and techniques to be used.
         - Test Strategy
             
-            Test strategy outlines the overall approach to testing, including the selection of test levels, test types, and test environments. It defines the test coverage criteria, identifies the testing techniques to be used, and outlines any special considerations or constraints.
+            -Test strategy outlines the overall approach to testing, including the selection of test levels, test types, and test environments. It defines the test coverage criteria, identifies the testing techniques to be used, and outlines any special considerations or constraints.
         - Test Design
         
-            Test design involves creating test cases and test scripts based on the specified requirements and test objectives. Testers define test scenarios, identify test data, and develop test cases that cover various system functionalities and edge cases.
+            -Test design involves creating test cases and test scripts based on the specified requirements and test objectives. Testers define test scenarios, identify test data, and develop test cases that cover various system functionalities and edge cases.
         - Test Execution
         
-            Test execution involves running the test cases, recording the results, and comparing the actual results with expected outcomes. Testers log defects and communicate any issues or observations during the testing process. Test execution may involve manual testing, automated testing, or a combination of both.
+            -Test execution involves running the test cases, recording the results, and comparing the actual results with expected outcomes. Testers log defects and communicate any issues or observations during the testing process. Test execution may involve manual testing, automated testing, or a combination of both.
         - Defect Management
 
-            Defect management involves the tracking, analysis, and resolution of defects identified during testing. Testers log defects in a defect tracking system, prioritize them based on their impact, and collaborate with developers to ensure timely resolution. Defect management also includes retesting fixed defects to verify their resolution.
+            -Defect management involves the tracking, analysis, and resolution of defects identified during testing. Testers log defects in a defect tracking system, prioritize them based on their impact, and collaborate with developers to ensure timely resolution. Defect management also includes retesting fixed defects to verify their resolution.
         - Test Reporting and Metrics
             
-            Test reporting involves communicating the test progress, results, and any issues to stakeholders. Test metrics are collected and analyzed to provide insights into the effectiveness and efficiency of the testing process. Reports may include test coverage, defect statistics, and overall quality metrics.
+            -Test reporting involves communicating the test progress, results, and any issues to stakeholders. Test metrics are collected and analyzed to provide insights into the effectiveness and efficiency of the testing process. Reports may include test coverage, defect statistics, and overall quality metrics.
         - Test Environment Management
             
-            Test environment management involves setting up and maintaining the necessary hardware, software, and network configurations required for testing. It ensures that the testing environment closely resembles the production environment and is properly managed to avoid conflicts or disruptions during testing.
+            -Test environment management involves setting up and maintaining the necessary hardware, software, and network configurations required for testing. It ensures that the testing environment closely resembles the production environment and is properly managed to avoid conflicts or disruptions during testing.
         - Test Team Management
         
-            Test team management involves managing the testers and coordinating their activities. It includes assigning tasks, tracking progress, conducting meetings, and fostering collaboration within the test team. Test team management also involves identifying training needs, providing mentoring or guidance, and ensuring the team has the necessary skills and resources.
+            -Test team management involves managing the testers and coordinating their activities. It includes assigning tasks, tracking progress, conducting meetings, and fostering collaboration within the test team. Test team management also involves identifying training needs, providing mentoring or guidance, and ensuring the team has the necessary skills and resources.
         - *Test Completion and Closure*
         
-            Test completion and closure involve reviewing the test results, evaluating the testing process, and obtaining stakeholders' approval for concluding the testing phase. It includes preparing test closure reports, capturing lessons learned, and archiving test artifacts for future reference.
+            -Test completion and closure involve reviewing the test results, evaluating the testing process, and obtaining stakeholders' approval for concluding the testing phase. It includes preparing test closure reports, capturing lessons learned, and archiving test artifacts for future reference.
     - **Tool Support for Testing**
         - Security Testing Tools
 
-            Security testing tools are designed to identify vulnerabilities, weaknesses, and potential security risks in software applications. They assist in conducting security scans, penetration testing, vulnerability assessment, and security code reviews.
+            -Security testing tools are designed to identify vulnerabilities, weaknesses, and potential security risks in software applications. They assist in conducting security scans, penetration testing, vulnerability assessment, and security code reviews.
         - Test Data Management Tools
 
-            Test data management tools help in creating, managing, and manipulating test data for different test scenarios. They provide capabilities to generate synthetic or realistic test data, ensure data privacy and compliance, and enable data masking or anonymization.
+            -Test data management tools help in creating, managing, and manipulating test data for different test scenarios. They provide capabilities to generate synthetic or realistic test data, ensure data privacy and compliance, and enable data masking or anonymization.
         - Test Management Tools
 
-            Test management tools help in planning, organizing, and tracking testing activities. They facilitate test case management, test execution scheduling, and test progress monitoring. These tools often provide features for requirements management, test planning, defect tracking, and reporting.
+            -Test management tools help in planning, organizing, and tracking testing activities. They facilitate test case management, test execution scheduling, and test progress monitoring. These tools often provide features for requirements management, test planning, defect tracking, and reporting.
         - Test Automation Tools
         
-            Test automation tools enable the creation and execution of automated test scripts. They help automate repetitive and time-consuming test cases, improving testing efficiency. Test automation tools support various types of testing, including functional testing, regression testing, performance testing, and API testing.
+            -Test automation tools enable the creation and execution of automated test scripts. They help automate repetitive and time-consuming test cases, improving testing efficiency. Test automation tools support various types of testing, including functional testing, regression testing, performance testing, and API testing.
         - Performance Testing Tools
     
-            Performance testing tools assist in evaluating the performance, scalability, and reliability of software applications. They simulate real-world user loads and measure system responses under different conditions. Performance testing tools often include features for load testing, stress testing, and performance monitoring.
+            -Performance testing tools assist in evaluating the performance, scalability, and reliability of software applications. They simulate real-world user loads and measure system responses under different conditions. Performance testing tools often include features for load testing, stress testing, and performance monitoring.
     - Test Case
         * Login Functionality
             * Test Case ID: TC001
