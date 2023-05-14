@@ -90,3 +90,11 @@
         - Localization Testing
 
             It checks if the software is properly adapted to meet the requirements of a specific locale or language.
+    - Test Process
+        - Test Design
+        - Test Planning
+        - Test Environment Setup
+        - Test Execution
+        - Test Reporting and Defect Tracking
+        - Defect Analysis and Retesting
+        - Test Closure
