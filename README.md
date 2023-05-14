@@ -124,4 +124,5 @@
         - Problem Solving under Pressure
             Testing can be challenging, especially when faced with tight deadlines, complex scenarios, or critical issues. Testers must handle pressure and solve problems effectively. The ability to think clearly, remain composed, and make sound decisions even in high-pressure situations is crucial for maintaining quality throughout the testing process.
         - Collaboration and Communication
+            Effective collaboration and communication are vital in testing, particularly when working with developers, stakeholders, and other team members. Testers need to clearly articulate their findings, report defects, and provide feedback. Good interpersonal skills and the ability to collaborate positively contribute to smoother testing processes and better outcomes.
         - Learning and Adaptibility
