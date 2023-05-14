@@ -63,3 +63,6 @@
         - Recovery Testing
 
             It involves in testing the software ability to recover from crashes or failures.
+        - Functional Testing
+
+            This type of testing verifies that the software functions as intended and meets the specified functional requirements.
