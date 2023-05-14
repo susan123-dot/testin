@@ -100,5 +100,6 @@
         - Test Execution
             This stage involves running the test cases based on the test design and capturing the test results. Test execution may include manual or automated testing techniques, depending on the available resources and project requirements. Testers perform the tests, record any observed defects or issues, and document the test results for further analysis.
         - Test Reporting and Defect Tracking
+            The test results and any discovered defects are documented and reported in this stage. Test reports summarize the executed tests, their outcomes, and any issues encountered. Defect tracking tools may be used to log, track, and manage the identified defects throughout the testing process.
         - Defect Analysis and Retesting
         - Test Closure
