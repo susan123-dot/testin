@@ -122,5 +122,6 @@
         - Skepticism
             A healthy dose of skepticism is essential in testing. Testers should approach the software with a questioning mindset, challenging assumptions and verifying expectations. Being skeptical helps testers avoid confirmation bias and thoroughly evaluate the software, increasing the chances of detecting defects that may otherwise be overlooked.
         - Problem Solving under Pressure
+            Testing can be challenging, especially when faced with tight deadlines, complex scenarios, or critical issues. Testers must handle pressure and solve problems effectively. The ability to think clearly, remain composed, and make sound decisions even in high-pressure situations is crucial for maintaining quality throughout the testing process.
         - Collaboration and Communication
         - Learning and Adaptibility
