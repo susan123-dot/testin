@@ -195,3 +195,26 @@
         - Test Completion and Closure
         
             Test completion and closure involve reviewing the test results, evaluating the testing process, and obtaining stakeholders' approval for concluding the testing phase. It includes preparing test closure reports, capturing lessons learned, and archiving test artifacts for future reference.
+    - Tool Support for Testing
+        - Security Testing Tools
+        
+            Security testing tools are designed to identify vulnerabilities, weaknesses, and potential security risks in software applications. They assist in conducting security scans, penetration testing, vulnerability assessment, and security code reviews.
+        - Test Data Management Tools
+
+            Test data management tools help in creating, managing, and manipulating test data for different test scenarios. They provide capabilities to generate synthetic or realistic test data, ensure data privacy and compliance, and enable data masking or anonymization.
+        - Test Management Tools
+
+            Test management tools help in planning, organizing, and tracking testing activities. They facilitate test case management, test execution scheduling, and test progress monitoring. These tools often provide features for requirements management, test planning, defect tracking, and reporting.
+        - Test Automation Tools
+        
+            Test automation tools enable the creation and execution of automated test scripts. They help automate repetitive and time-consuming test cases, improving testing efficiency. Test automation tools support various types of testing, including functional testing, regression testing, performance testing, and API testing.
+        - Performance Testing Tools
+    
+            Performance testing tools assist in evaluating the performance, scalability, and reliability of software applications. They simulate real-world user loads and measure system responses under different conditions. Performance testing tools often include features for load testing, stress testing, and performance monitoring.
+            
+       
+    
+            
+        
+       
+        
