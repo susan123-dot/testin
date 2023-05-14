@@ -54,5 +54,7 @@
         - System Testing
 
             It involves in testing the entire system to identify that all components are working together or not.
+        - Acceptance Testing
+
+            It is the process of determining that system meets user's requirement or not.  
         
-      
