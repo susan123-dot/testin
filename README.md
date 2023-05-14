@@ -138,7 +138,7 @@
         - Static Testing: Static testing is a software testing approach that focuses on reviewing and analyzing the software's documentation, requirements, and code without executing the program.
         - Dynamic Testing: Dynamic testing is an essential software testing approach that involves executing the software and observing its behavior to ensure that it functions correctly.
     - Review Process
-    
+
         The review process is a systematic approach to evaluating and providing feedback on various artifacts, documents, or components related to software development.
         - Planning 
 
@@ -193,10 +193,10 @@
         - Test Team Management
         
             Test team management involves managing the testers and coordinating their activities. It includes assigning tasks, tracking progress, conducting meetings, and fostering collaboration within the test team. Test team management also involves identifying training needs, providing mentoring or guidance, and ensuring the team has the necessary skills and resources.
-        - Test Completion and Closure
+        - *Test Completion and Closure*
         
             Test completion and closure involve reviewing the test results, evaluating the testing process, and obtaining stakeholders' approval for concluding the testing phase. It includes preparing test closure reports, capturing lessons learned, and archiving test artifacts for future reference.
-    - Tool Support for Testing
+    - **Tool Support for Testing**
         - Security Testing Tools
 
             Security testing tools are designed to identify vulnerabilities, weaknesses, and potential security risks in software applications. They assist in conducting security scans, penetration testing, vulnerability assessment, and security code reviews.
@@ -212,6 +212,44 @@
         - Performance Testing Tools
     
             Performance testing tools assist in evaluating the performance, scalability, and reliability of software applications. They simulate real-world user loads and measure system responses under different conditions. Performance testing tools often include features for load testing, stress testing, and performance monitoring.
+    - Test Case: Login Functionality
+        * Test Case ID: TC001
+        * Test Case Description: Verify the login functionality of the application.
+    - Test Steps
+        * Launch the application.
+        * Navigate to the login page.
+        * Enter a valid username and password.
+        * Click on the "Login" button.
+        * Verify that the user is successfully logged in and directed to the home page.
+        * Verify that the username is displayed correctly on the home page.
+        * Logout from the application.
+        * Verify that the user is logged out and redirected to the login page.
+        * Attempt to login with an invalid username and password combination.
+        * Verify that the appropriate error message is displayed indicating invalid credentials.
+    - Expected Results
+        * The application should launch successfully.
+        * The login page should be displayed without any errors.
+        * The valid username and password should be accepted without any issues.
+        * After clicking on the "Login" button, the user should be successfully logged in and directed to the home page.
+        * The home page should display the correct username.
+        * The logout action should successfully log out the user and redirect to the login page.
+        * The login page should be displayed after logout.
+        * When attempting to login with invalid credentials, an appropriate error message should be displayed.
+    - Actual Results
+        * The application launches successfully.
+        * The login page is displayed without any errors.
+        * The valid username and password are accepted without any issues.
+        * After clicking on the "Login" button, the user is successfully logged in and directed to the home page.
+        * The home page displays the correct username.
+        * The logout action successfully logs out the user and redirects to the login page.
+        * The login page is displayed after logout.
+        * When attempting to login with invalid credentials, the appropriate error message is displayed.
+    - Pass/Fail Criteria
+        * All test steps should pass, and the actual results should match the expected results.
+    - Additional Notes
+        * Test different valid and invalid username/password combinations to ensure coverage of different scenarios.
+        * Test the functionality with special characters, uppercase and lowercase letters, and numeric characters in the username and password fields.
+        * Validate the behavior of the application when the login credentials are left empty.
             
        
     
