@@ -84,3 +84,6 @@
         - Load Testing
 
             It tests the software's performance under expected load conditions to assess its stability and response time.
+        - Stress Testing
+
+            This type of testing evaluates the software's behavior and performance under extreme conditions or beyond its normal operational capacity.
