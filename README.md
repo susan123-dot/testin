@@ -112,3 +112,11 @@
         - Test Closure
             
             In the final stage, the test activities are concluded. This includes analyzing the test results and metrics, assessing the overall quality of the software, and preparing test closure reports. Test closure also involves documenting lessons learned during the testing process to improve future testing efforts.
+    - The Pshychology of Testing
+        - Attention to Details
+        - Curiosity
+        - Critical Thinker
+        - Skepticism
+        - Problem Solving under Pressure
+        - Collaboration and Communication
+        - Learning and Adaptibility
