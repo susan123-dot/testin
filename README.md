@@ -104,3 +104,4 @@
         - Defect Analysis and Retesting
             After defects are reported, they are analyzed to understand their root causes and severity. The development team may fix the defects, and the testers will perform retesting to ensure that the issues have been resolved without introducing new problems.
         - Test Closure
+            In the final stage, the test activities are concluded. This includes analyzing the test results and metrics, assessing the overall quality of the software, and preparing test closure reports. Test closure also involves documenting lessons learned during the testing process to improve future testing efforts.
