@@ -144,6 +144,7 @@
         - Preparation
             Reviewers prepare themselves by familiarizing themselves with the artifacts or components under review. They study the relevant documentation, requirements, or specifications to gain a comprehensive understanding of the subject matter.
         - Conducting the Review
+            The review session takes place, either in person or through a collaborative online platform. The reviewers systematically examine the artifact or component, looking for errors, inconsistencies, or areas that need improvement. They may use checklists, guidelines, or best practices to ensure a thorough review.
         - Communication Discussion
         - Issue Resolution
         - Follow-Up
