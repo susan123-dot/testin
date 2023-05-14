@@ -74,4 +74,7 @@
             It focuses on identifying vulnerabilities and weaknesses in the software to protect it from potential security threats.
         - Regression Testing
 
-             It involves retesting the modified or added parts of the software to ensure that the changes have not introduced any new defects or issues.
+            It involves retesting the modified or added parts of the software to ensure that the changes have not introduced any new defects or issues.
+        - Compatibility Testing
+
+            This testing verifies that the software is compatible with different operating systems, browsers, devices, or other software configurations.
