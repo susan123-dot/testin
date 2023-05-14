@@ -92,6 +92,7 @@
             It checks if the software is properly adapted to meet the requirements of a specific locale or language.
     - Test Process
         - Test Design
+            In this initial stage, the test objectives, scope, and strategy are defined. Test planning involves identifying the testing goals, establishing the test deliverables, determining the test environment and resources, and creating a test plan that outlines the testing activities and schedules.
         - Test Planning
         - Test Environment Setup
         - Test Execution
