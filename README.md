@@ -120,6 +120,7 @@
         - Critical Thinker
             Testing involves critical thinking skills, including analysis, problem-solving, and decision-making. Testers need to interpret requirements, design effective test cases, and assess the impact of defects. They must think critically to identify potential risks, anticipate user behavior, and prioritize testing efforts. Strong critical thinking skills contribute to more effective and efficient testing.
         - Skepticism
+            A healthy dose of skepticism is essential in testing. Testers should approach the software with a questioning mindset, challenging assumptions and verifying expectations. Being skeptical helps testers avoid confirmation bias and thoroughly evaluate the software, increasing the chances of detecting defects that may otherwise be overlooked.
         - Problem Solving under Pressure
         - Collaboration and Communication
         - Learning and Adaptibility
